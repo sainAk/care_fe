@@ -65,7 +65,7 @@
     "cross-env": "^7.0.3",
     "date-fns": "^2.16.1",
     "date-fns-tz": "^1.0.10",
-    "echarts": "^5.1.2",
+    "echarts": "^5.4.1",
     "echarts-for-react": "^3.0.1",
     "i18next": "^20.3.1",
     "i18next-browser-languagedetector": "^6.1.1",
